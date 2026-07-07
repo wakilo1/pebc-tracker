@@ -13,7 +13,7 @@ try {
   process.exit(1);
 }
 
-// CORRECTION : Tri strict par date chronologique
+// Tri par date chronologique
 studyPlan.sort((a, b) => new Date(a.targetDate) - new Date(b.targetDate));
 
 // ============================================================================
@@ -41,32 +41,23 @@ const filledBlocks = Math.round(progressPercent / 10);
 const emptyBlocks = 10 - filledBlocks;
 const progressBar = `[${'█'.repeat(filledBlocks)}${'░'.repeat(emptyBlocks)}] ${progressPercent}%`;
 
-// Chapitre théorique
-let expectedChapterIndex = 0;
-for (let i = 0; i < studyPlan.length; i++) {
-  if (studyPlan[i].targetDate <= todayString) {
-    expectedChapterIndex = i;
-  }
-}
-const theoreticalChapter = studyPlan[expectedChapterIndex];
+// Extraction intelligente des chapitres
+const overdueChapters = studyPlan.filter(chap => chap.targetDate < todayString && chap.completed === false);
+const todaysChapters = studyPlan.filter(chap => chap.targetDate === todayString && chap.completed === false);
+const nextChapters = studyPlan.filter(chap => chap.targetDate > todayString && chap.completed === false);
 
-// Focus réel
-const actualChapterIndex = studyPlan.findIndex(chap => chap.completed === false);
-const focusChapter = actualChapterIndex !== -1 ? studyPlan[actualChapterIndex] : null;
+// Calcul du statut
+let delayCount = overdueChapters.length;
+let statusMessage = "";
 
-// Calcul du retard
-let delayCount = 0;
-let statusMessage = "🟢 À JOUR ET PRÊT";
-
-if (actualChapterIndex !== -1) {
-  delayCount = expectedChapterIndex - actualChapterIndex;
-  if (delayCount > 0) {
-    statusMessage = `🔴 EN RETARD de ${delayCount} chapitre(s)`;
-  } else if (delayCount < 0) {
-    statusMessage = `🔵 EN AVANCE de ${Math.abs(delayCount)} chapitre(s)`;
-  }
+if (delayCount > 0) {
+  statusMessage = `🔴 EN RETARD de ${delayCount} chapitre(s)`;
+} else if (todaysChapters.length > 0) {
+  statusMessage = `🟢 À JOUR`;
+} else if (nextChapters.length > 0) {
+  statusMessage = `🔵 EN AVANCE`;
 } else {
-  statusMessage = "🏆 PLAN D'ÉTUDE TERMINÉ (PEBC READY)";
+  statusMessage = `🏆 PLAN D'ÉTUDE TERMINÉ (PEBC READY)`;
 }
 
 // ============================================================================
@@ -77,21 +68,30 @@ messageText += `⏳ Jours avant PEBC : ${daysLeft} jours\n`;
 messageText += `📊 Progression : ${progressBar} (${completedChapters}/${totalChapters})\n`;
 messageText += `🚦 Statut : ${statusMessage}\n\n`;
 
-if (theoreticalChapter) {
-  messageText += `🎯 Théorique attendu :\n${theoreticalChapter.name}\n\n`;
+// Si retard, on liste tout
+if (overdueChapters.length > 0) {
+  messageText += `⚠️ CHAPITRES EN RETARD À RATTRAPER :\n`;
+  overdueChapters.forEach(chap => {
+    messageText += `- ${chap.name} (Prévu le ${chap.targetDate})\n`;
+  });
+  messageText += `\n`;
 }
 
-if (focusChapter) {
-  messageText += `👉 Focus réel du jour :\n${focusChapter.name}\n\n`;
-  
-  if (focusChapter.keywords && focusChapter.keywords.length > 0) {
-    messageText += `Rappels cliniques à maîtriser :\n`;
-    focusChapter.keywords.forEach(kw => {
-      messageText += `- ${kw}\n`;
-    });
-  }
-} else {
-  messageText += `\n🎉 Félicitations confrère, le programme de révision est complété !`;
+// Si des chapitres sont prévus aujourd'hui
+if (todaysChapters.length > 0) {
+  messageText += `🎯 AU PROGRAMME AUJOURD'HUI :\n`;
+  todaysChapters.forEach(chap => {
+    messageText += `- ${chap.name}\n`;
+  });
+} 
+// Si tout est à jour ou en avance, on affiche le prochain
+else if (delayCount === 0 && nextChapters.length > 0) {
+  messageText += `👉 PROCHAIN CHAPITRE (En avance) :\n`;
+  messageText += `- ${nextChapters[0].name} (Prévu le ${nextChapters[0].targetDate})\n`;
+} 
+// Si tout est fini
+else if (delayCount === 0 && nextChapters.length === 0) {
+   messageText += `🎉 Félicitations, le programme de révision est complété !`;
 }
 
 // ============================================================================
