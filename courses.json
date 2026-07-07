@@ -120,7 +120,7 @@
     "id": 1,
     "name": "Chapitre 1 de misbah pharmacologie : Fonctions du système nerveux autonome (lire au meme temps avec le Chapitre 3 du misbah fr : Système nerveux, Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome)",
     "targetDate": "2026-07-07",
-    "completed": true,
+    "completed": false,
     "keywords": [
       "pebc_ch01"
     ]
