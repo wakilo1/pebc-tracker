@@ -1,32 +1,5 @@
 [
   {
-    "id": 1,
-    "name": "Chapitre 1 de misbah pharmacologie : Fonctions du système nerveux autonome (lire au meme temps avec le Chapitre 3 du misbah fr : Système nerveux, Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome)",
-    "targetDate": "2026-07-07",
-    "completed": false,
-    "keywords": [
-      "pebc_ch01"
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Chapitre 2 de misbah pharmacologie : Médicaments adrénergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome)",
-    "targetDate": "2026-07-08",
-    "completed": false,
-    "keywords": [
-      "pebc_ch02"
-    ]
-  },
-  {
-    "id": 3,
-    "name": "Chapitre 3 de misbah pharmacologie : Médicaments cholinergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome)",
-    "targetDate": "2026-07-09",
-    "completed": false,
-    "keywords": [
-      "pebc_ch03"
-    ]
-  },
-  {
     "id": 4,
     "name": "Chapitre 4 de misbah pharmacologie : Médicaments antihypertenseurs (lire au meme temps avec le Chapitre 85 du misbah fr : Hypertension, Chapitre 26 du misbah fr : Chimie médicinale et pharmacologie des médicaments cardiovasculaires)",
     "targetDate": "2026-06-23",
@@ -96,6 +69,78 @@
     "completed": true,
     "keywords": [
       "pebc_ch11"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Chapitre 23 de misbah pharmacologie : Insuline et médicaments antidiabétiques (lire au meme temps avec le Chapitre 79 du misbah fr : Diabète de type 1 et de type 2, Chapitre 5 du misbah fr : Système endocrinien, Chapitre 28 du misbah fr : Chimie médicinale et pharmacologie des médicaments endocriniens)",
+    "targetDate": "2026-07-01",
+    "completed": true,
+    "keywords": [
+      "pebc_ch23"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Chapitre 24 de misbah pharmacologie : Médicaments thyroïdiens (lire au meme temps avec le Chapitre 80 du misbah fr : Troubles thyroïdiens)",
+    "targetDate": "2026-07-02",
+    "completed": true,
+    "keywords": [
+      "pebc_ch24"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Chapitre 25 de misbah pharmacologie : Hormones gonadiques (lire au meme temps avec le Chapitre 82 du misbah fr : Troubles gynécologiques et génito-urinaires)",
+    "targetDate": "2026-07-03",
+    "completed": true,
+    "keywords": [
+      "pebc_ch25"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Chapitre 26 de misbah pharmacologie : Corticostéroïdes surrénaliens",
+    "targetDate": "2026-07-04",
+    "completed": true,
+    "keywords": [
+      "pebc_ch26"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Chapitre 27 de misbah pharmacologie : Contraceptifs oraux (lire au meme temps avec le Chapitre 81 du misbah fr : Contraception)",
+    "targetDate": "2026-07-05",
+    "completed": true,
+    "keywords": [
+      "pebc_ch27"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Chapitre 1 de misbah pharmacologie : Fonctions du système nerveux autonome (lire au meme temps avec le Chapitre 3 du misbah fr : Système nerveux, Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome)",
+    "targetDate": "2026-07-07",
+    "completed": true,
+    "keywords": [
+      "pebc_ch01"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chapitre 2 de misbah pharmacologie : Médicaments adrénergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome)",
+    "targetDate": "2026-07-08",
+    "completed": false,
+    "keywords": [
+      "pebc_ch02"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chapitre 3 de misbah pharmacologie : Médicaments cholinergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome)",
+    "targetDate": "2026-07-09",
+    "completed": false,
+    "keywords": [
+      "pebc_ch03"
     ]
   },
   {
@@ -195,51 +240,6 @@
     "completed": false,
     "keywords": [
       "pebc_ch22"
-    ]
-  },
-  {
-    "id": 23,
-    "name": "Chapitre 23 de misbah pharmacologie : Insuline et médicaments antidiabétiques (lire au meme temps avec le Chapitre 79 du misbah fr : Diabète de type 1 et de type 2, Chapitre 5 du misbah fr : Système endocrinien, Chapitre 28 du misbah fr : Chimie médicinale et pharmacologie des médicaments endocriniens)",
-    "targetDate": "2026-07-01",
-    "completed": true,
-    "keywords": [
-      "pebc_ch23"
-    ]
-  },
-  {
-    "id": 24,
-    "name": "Chapitre 24 de misbah pharmacologie : Médicaments thyroïdiens (lire au meme temps avec le Chapitre 80 du misbah fr : Troubles thyroïdiens)",
-    "targetDate": "2026-07-02",
-    "completed": true,
-    "keywords": [
-      "pebc_ch24"
-    ]
-  },
-  {
-    "id": 25,
-    "name": "Chapitre 25 de misbah pharmacologie : Hormones gonadiques (lire au meme temps avec le Chapitre 82 du misbah fr : Troubles gynécologiques et génito-urinaires)",
-    "targetDate": "2026-07-03",
-    "completed": true,
-    "keywords": [
-      "pebc_ch25"
-    ]
-  },
-  {
-    "id": 26,
-    "name": "Chapitre 26 de misbah pharmacologie : Corticostéroïdes surrénaliens",
-    "targetDate": "2026-07-04",
-    "completed": true,
-    "keywords": [
-      "pebc_ch26"
-    ]
-  },
-  {
-    "id": 27,
-    "name": "Chapitre 27 de misbah pharmacologie : Contraceptifs oraux (lire au meme temps avec le Chapitre 81 du misbah fr : Contraception)",
-    "targetDate": "2026-07-05",
-    "completed": true,
-    "keywords": [
-      "pebc_ch27"
     ]
   },
   {
