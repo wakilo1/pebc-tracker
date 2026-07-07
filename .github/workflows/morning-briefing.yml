@@ -1,0 +1,26 @@
+name: PEBC Morning Briefing
+
+on:
+  schedule:
+    # Exécute le script tous les jours à 11h00 UTC (Ce qui correspond à 7h00 du matin, heure du Québec en été)
+    - cron: '0 11 * * *'
+  workflow_dispatch: # Ce paramètre nous permet de forcer un test manuel tout de suite
+
+jobs:
+  run-tracker:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Récupération du code
+      uses: actions/checkout@v4
+
+    - name: Configuration de Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Exécution du Tracker PEBC
+      env:
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: node tracker.js
