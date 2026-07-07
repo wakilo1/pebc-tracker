@@ -1,0 +1,812 @@
+[
+  {
+    "id": 1,
+    "name": "Chapitre 1 de misbah pharmacologie : Fonctions du système nerveux autonome (lire au meme temps avec le Chapitre 3 du misbah fr : Système nerveux, Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome)",
+    "targetDate": "2026-07-07",
+    "completed": false,
+    "keywords": [
+      "pebc_ch01"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chapitre 2 de misbah pharmacologie : Médicaments adrénergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome)",
+    "targetDate": "2026-07-08",
+    "completed": false,
+    "keywords": [
+      "pebc_ch02"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Chapitre 3 de misbah pharmacologie : Médicaments cholinergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome)",
+    "targetDate": "2026-07-09",
+    "completed": false,
+    "keywords": [
+      "pebc_ch03"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Chapitre 4 de misbah pharmacologie : Médicaments antihypertenseurs (lire au meme temps avec le Chapitre 85 du misbah fr : Hypertension, Chapitre 26 du misbah fr : Chimie médicinale et pharmacologie des médicaments cardiovasculaires)",
+    "targetDate": "2026-06-23",
+    "completed": true,
+    "keywords": [
+      "pebc_ch04"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chapitre 5 de misbah pharmacologie : Médicaments antihyperlipidémiants (lire au meme temps avec le Chapitre 7 du misbah fr : Fonctions du foie et physiopathologie)",
+    "targetDate": "2026-06-24",
+    "completed": true,
+    "keywords": [
+      "pebc_ch05"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Chapitre 6 de misbah pharmacologie : Nitrates et nitroglycérine (lire au meme temps avec le Chapitre 86 du misbah fr : Maladies coronariennes)",
+    "targetDate": "2026-06-25",
+    "completed": true,
+    "keywords": [
+      "pebc_ch06"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Chapitre 7 de misbah pharmacologie : Glycosides cardiaques : Digoxine (lire au meme temps avec le Chapitre 88 du misbah fr : Insuffisance cardiaque congestive)",
+    "targetDate": "2026-06-26",
+    "completed": true,
+    "keywords": [
+      "pebc_ch07"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Chapitre 8 de misbah pharmacologie : Médicaments antiarythmiques (lire au meme temps avec le Chapitre 89 du misbah fr : Arythmies cardiaques)",
+    "targetDate": "2026-06-27",
+    "completed": true,
+    "keywords": [
+      "pebc_ch08"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Chapitre 9 de misbah pharmacologie : Anticoagulants (lire au meme temps avec le Chapitre 87 du misbah fr : Accident vasculaire cérébral, Chapitre 90 du misbah fr : Maladies vasculaires périphériques)",
+    "targetDate": "2026-06-28",
+    "completed": true,
+    "keywords": [
+      "pebc_ch09"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Chapitre 10 de misbah pharmacologie : Médicaments antiplaquettaires (lire au meme temps avec le Chapitre 86 du misbah fr : Maladies coronariennes)",
+    "targetDate": "2026-06-29",
+    "completed": true,
+    "keywords": [
+      "pebc_ch10"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Chapitre 11 de misbah pharmacologie : Médicaments thrombolytiques (lire au meme temps avec le Chapitre 87 du misbah fr : Accident vasculaire cérébral)",
+    "targetDate": "2026-06-30",
+    "completed": true,
+    "keywords": [
+      "pebc_ch11"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Chapitre 12 de misbah pharmacologie : Antidépresseurs et lithium (lire au meme temps avec le Chapitre 93 du misbah fr : Dépression, Chapitre 27 du misbah fr : Chimie médicinale et pharmacologie des médicaments psychiatriques et neurologiques)",
+    "targetDate": "2026-07-10",
+    "completed": false,
+    "keywords": [
+      "pebc_ch12"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Chapitre 13 de misbah pharmacologie : Benzodiazépines et barbituriques (lire au meme temps avec le Chapitre 92 du misbah fr : Troubles de l'anxiété, Chapitre 76 du misbah fr : Insomnie)",
+    "targetDate": "2026-07-11",
+    "completed": false,
+    "keywords": [
+      "pebc_ch13"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Chapitre 14 de misbah pharmacologie : Stimulants du SNC",
+    "targetDate": "2026-07-12",
+    "completed": false,
+    "keywords": [
+      "pebc_ch14"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Chapitre 15 de misbah pharmacologie : Antipsychotiques (lire au meme temps avec le Chapitre 94 du misbah fr : Psychose et schizophrénie)",
+    "targetDate": "2026-07-13",
+    "completed": false,
+    "keywords": [
+      "pebc_ch15"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Chapitre 16 de misbah pharmacologie : Médicaments antiépileptiques (lire au meme temps avec le Chapitre 96 du misbah fr : Crises convulsives et épilepsie)",
+    "targetDate": "2026-07-14",
+    "completed": false,
+    "keywords": [
+      "pebc_ch16"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Chapitre 17 de misbah pharmacologie : Médicaments contre la maladie d'Alzheimer et la démence (lire au meme temps avec le Chapitre 95 du misbah fr : Démence)",
+    "targetDate": "2026-07-15",
+    "completed": false,
+    "keywords": [
+      "pebc_ch17"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Chapitre 18 de misbah pharmacologie : Médicaments anti-parkinsoniens (lire au meme temps avec le Chapitre 97 du misbah fr : Maladie de Parkinson)",
+    "targetDate": "2026-07-16",
+    "completed": false,
+    "keywords": [
+      "pebc_ch18"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Chapitre 19 de misbah pharmacologie : Anesthésiques locaux et généraux",
+    "targetDate": "2026-07-17",
+    "completed": false,
+    "keywords": [
+      "pebc_ch19"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Chapitre 20 de misbah pharmacologie : Analgésiques opioïdes (lire au meme temps avec le Chapitre 91 du misbah fr : Gestion de la douleur)",
+    "targetDate": "2026-07-18",
+    "completed": false,
+    "keywords": [
+      "pebc_ch20"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Chapitre 21 de misbah pharmacologie : AINS (lire au meme temps avec le Chapitre 25 du misbah fr : Chimie médicinale et pharmacologie des histamines, de la sérotonine, des prostaglandines et des AINS)",
+    "targetDate": "2026-07-19",
+    "completed": false,
+    "keywords": [
+      "pebc_ch21"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Chapitre 22 de misbah pharmacologie : Autacoïdes (Analogues et Antagonistes)",
+    "targetDate": "2026-07-20",
+    "completed": false,
+    "keywords": [
+      "pebc_ch22"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Chapitre 23 de misbah pharmacologie : Insuline et médicaments antidiabétiques (lire au meme temps avec le Chapitre 79 du misbah fr : Diabète de type 1 et de type 2, Chapitre 5 du misbah fr : Système endocrinien, Chapitre 28 du misbah fr : Chimie médicinale et pharmacologie des médicaments endocriniens)",
+    "targetDate": "2026-07-01",
+    "completed": true,
+    "keywords": [
+      "pebc_ch23"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Chapitre 24 de misbah pharmacologie : Médicaments thyroïdiens (lire au meme temps avec le Chapitre 80 du misbah fr : Troubles thyroïdiens)",
+    "targetDate": "2026-07-02",
+    "completed": true,
+    "keywords": [
+      "pebc_ch24"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Chapitre 25 de misbah pharmacologie : Hormones gonadiques (lire au meme temps avec le Chapitre 82 du misbah fr : Troubles gynécologiques et génito-urinaires)",
+    "targetDate": "2026-07-03",
+    "completed": true,
+    "keywords": [
+      "pebc_ch25"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Chapitre 26 de misbah pharmacologie : Corticostéroïdes surrénaliens",
+    "targetDate": "2026-07-04",
+    "completed": true,
+    "keywords": [
+      "pebc_ch26"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Chapitre 27 de misbah pharmacologie : Contraceptifs oraux (lire au meme temps avec le Chapitre 81 du misbah fr : Contraception)",
+    "targetDate": "2026-07-05",
+    "completed": true,
+    "keywords": [
+      "pebc_ch27"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Chapitre 28 de misbah pharmacologie : Arthrose (lire au meme temps avec le Chapitre 83 du misbah fr : Polyarthrite rhumatoïde, arthrose et arthrite goutteuse, Chapitre 30 du misbah fr : Chimie médicinale et pharmacologie des médicaments musculosquelettiques)",
+    "targetDate": "2026-07-21",
+    "completed": false,
+    "keywords": [
+      "pebc_ch28"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Chapitre 29 de misbah pharmacologie : ARMM (lire au meme temps avec le Chapitre 83 du misbah fr : Polyarthrite rhumatoïde, arthrose et arthrite goutteuse)",
+    "targetDate": "2026-07-22",
+    "completed": false,
+    "keywords": [
+      "pebc_ch29"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Chapitre 30 de misbah pharmacologie : Arthrite goutteuse et hyperuricémie (lire au meme temps avec le Chapitre 83 du misbah fr : Polyarthrite rhumatoïde, arthrose et arthrite goutteuse)",
+    "targetDate": "2026-07-23",
+    "completed": false,
+    "keywords": [
+      "pebc_ch30"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Chapitre 31 de misbah pharmacologie : Ostéoporose (lire au meme temps avec le Chapitre 84 du misbah fr : Ostéoporose)",
+    "targetDate": "2026-07-24",
+    "completed": false,
+    "keywords": [
+      "pebc_ch31"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Chapitre 32 de misbah pharmacologie : Asthme et MPOC (lire au meme temps avec le Chapitre 74 du misbah fr : Asthme et MPOC, Chapitre 8 du misbah fr : Système respiratoire, Chapitre 29 du misbah fr : Chimie médicinale et pharmacologie des médicaments respiratoires)",
+    "targetDate": "2026-07-25",
+    "completed": false,
+    "keywords": [
+      "pebc_ch32"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Chapitre 33 de misbah pharmacologie : Médicaments anticancéreux et chimiothérapie (lire au meme temps avec le Chapitre 99 du misbah fr : Médicaments anticancéreux et chimiothérapie)",
+    "targetDate": "2026-07-26",
+    "completed": false,
+    "keywords": [
+      "pebc_ch33"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Chapitre 34 de misbah pharmacologie : Médicaments gastro-intestinaux (lire au meme temps avec le Chapitre 78 du misbah fr : RGO, ulcères, MII et SCI, Chapitre 2 du misbah fr : Système gastro-intestinal, Chapitre 72 du misbah fr : Médicaments en vente libre)",
+    "targetDate": "2026-07-27",
+    "completed": false,
+    "keywords": [
+      "pebc_ch34"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Chapitre 35 de misbah pharmacologie : Médicaments dans l'insuffisance rénale (lire au meme temps avec le Chapitre 6 du misbah fr : Système rénal, Chapitre 9 du misbah fr : Système urinaire)",
+    "targetDate": "2026-07-28",
+    "completed": false,
+    "keywords": [
+      "pebc_ch35"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Chapitre 36 de misbah pharmacologie : Immunomodulateurs (lire au meme temps avec le Chapitre 16 du misbah fr : Immunologie, Chapitre 17 du misbah fr : Immunisations)",
+    "targetDate": "2026-07-29",
+    "completed": false,
+    "keywords": [
+      "pebc_ch36"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Chapitre 37 de misbah pharmacologie : Médicaments ophtalmiques (lire au meme temps avec le Chapitre 70 du misbah fr : Médicaments ophtalmiques, Chapitre 10 du misbah fr : L'œil et l'oreille)",
+    "targetDate": "2026-07-30",
+    "completed": false,
+    "keywords": [
+      "pebc_ch37"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Chapitre 38 de misbah pharmacologie : Antibactériens (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens, Chapitre 14 du misbah fr : Microbiologie, Chapitre 31 du misbah fr : Chimie médicinale et pharmacologie des médicaments antimicrobiens)",
+    "targetDate": "2026-07-31",
+    "completed": false,
+    "keywords": [
+      "pebc_ch38"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Chapitre 39 de misbah pharmacologie : Antifongiques (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens)",
+    "targetDate": "2026-08-01",
+    "completed": false,
+    "keywords": [
+      "pebc_ch39"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Chapitre 40 de misbah pharmacologie : Médicaments antimycobactériens (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens)",
+    "targetDate": "2026-08-02",
+    "completed": false,
+    "keywords": [
+      "pebc_ch40"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Chapitre 41 de misbah pharmacologie : Médicaments antiviraux (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens)",
+    "targetDate": "2026-08-03",
+    "completed": false,
+    "keywords": [
+      "pebc_ch41"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Chapitre 42 de misbah pharmacologie : Médicaments antipaludiques (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens)",
+    "targetDate": "2026-08-04",
+    "completed": false,
+    "keywords": [
+      "pebc_ch42"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Chapitre 43 de misbah pharmacologie : Médicaments anthelminthiques (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens)",
+    "targetDate": "2026-08-05",
+    "completed": false,
+    "keywords": [
+      "pebc_ch43"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Chapitre 20 du misbah fr : Pharmacocinétique",
+    "targetDate": "2026-08-06",
+    "completed": false,
+    "keywords": [
+      "pebc_ch44"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Chapitre 21 du misbah fr : Vitesses et ordres de cinétique",
+    "targetDate": "2026-08-07",
+    "completed": false,
+    "keywords": [
+      "pebc_ch45"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Chapitre 22 du misbah fr : Pharmacodynamique",
+    "targetDate": "2026-08-08",
+    "completed": false,
+    "keywords": [
+      "pebc_ch46"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Chapitre 23 du misbah fr : Bases de la chimie médicinale",
+    "targetDate": "2026-08-09",
+    "completed": false,
+    "keywords": [
+      "pebc_ch47"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Chapitre 32 du misbah fr : Métabolisme des médicaments",
+    "targetDate": "2026-08-10",
+    "completed": false,
+    "keywords": [
+      "pebc_ch48"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Chapitre 33 du misbah fr : Biopharmacie",
+    "targetDate": "2026-08-11",
+    "completed": false,
+    "keywords": [
+      "pebc_ch49"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Chapitre 34 du misbah fr : Pharmacie physique",
+    "targetDate": "2026-08-12",
+    "completed": false,
+    "keywords": [
+      "pebc_ch50"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Chapitre 35 du misbah fr : Excipients pharmaceutiques",
+    "targetDate": "2026-08-13",
+    "completed": false,
+    "keywords": [
+      "pebc_ch51"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Chapitre 36 du misbah fr : Préparations magistrales et reconstitutions",
+    "targetDate": "2026-08-14",
+    "completed": false,
+    "keywords": [
+      "pebc_ch52"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Chapitre 37 du misbah fr : Formes posologiques pharmaceutiques",
+    "targetDate": "2026-08-15",
+    "completed": false,
+    "keywords": [
+      "pebc_ch53"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Chapitre 38 du misbah fr : Systèmes d'administration de médicaments",
+    "targetDate": "2026-08-16",
+    "completed": false,
+    "keywords": [
+      "pebc_ch54"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Chapitre 39 du misbah fr : Analyse pharmaceutique",
+    "targetDate": "2026-08-17",
+    "completed": false,
+    "keywords": [
+      "pebc_ch55"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "Chapitre 40 du misbah fr : Le système de soins de santé canadien",
+    "targetDate": "2026-08-18",
+    "completed": false,
+    "keywords": [
+      "pebc_ch56"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Chapitre 41 du misbah fr : Loi et jurisprudence pharmaceutiques canadiennes",
+    "targetDate": "2026-08-19",
+    "completed": false,
+    "keywords": [
+      "pebc_ch57"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Chapitre 42 du misbah fr : Champ d'exercice du pharmacien au Canada",
+    "targetDate": "2026-08-20",
+    "completed": false,
+    "keywords": [
+      "pebc_ch58"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Chapitre 43 du misbah fr : Gestion de la pharmacie",
+    "targetDate": "2026-08-21",
+    "completed": false,
+    "keywords": [
+      "pebc_ch59"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Chapitre 44 du misbah fr : Pharmacoéconomie",
+    "targetDate": "2026-08-22",
+    "completed": false,
+    "keywords": [
+      "pebc_ch60"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Chapitre 45 du misbah fr : Le processus d'approbation des nouveaux médicaments",
+    "targetDate": "2026-08-23",
+    "completed": false,
+    "keywords": [
+      "pebc_ch61"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Chapitre 46 du misbah fr : Pharmacoépidémiologie",
+    "targetDate": "2026-08-24",
+    "completed": false,
+    "keywords": [
+      "pebc_ch62"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Chapitre 47 du misbah fr : Biostatistiques",
+    "targetDate": "2026-08-25",
+    "completed": false,
+    "keywords": [
+      "pebc_ch63"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Chapitre 48 du misbah fr : Pharmacie d'hôpital",
+    "targetDate": "2026-08-26",
+    "completed": false,
+    "keywords": [
+      "pebc_ch64"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Chapitre 49 du misbah fr : Ordonnances de médicaments",
+    "targetDate": "2026-08-27",
+    "completed": false,
+    "keywords": [
+      "pebc_ch65"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Chapitre 50 du misbah fr : Calculs pharmaceutiques : Les bases",
+    "targetDate": "2026-08-28",
+    "completed": false,
+    "keywords": [
+      "pebc_ch66"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Chapitre 51 du misbah fr : Concentrations et dilutions",
+    "targetDate": "2026-08-29",
+    "completed": false,
+    "keywords": [
+      "pebc_ch67"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Chapitre 52 du misbah fr : Calculs de posologie",
+    "targetDate": "2026-08-30",
+    "completed": false,
+    "keywords": [
+      "pebc_ch68"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Chapitre 53 du misbah fr : Solutions d'électrolytes",
+    "targetDate": "2026-08-31",
+    "completed": false,
+    "keywords": [
+      "pebc_ch69"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Chapitre 54 du misbah fr : Sécurité des médicaments dans les populations particulières",
+    "targetDate": "2026-09-01",
+    "completed": false,
+    "keywords": [
+      "pebc_ch70"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Chapitre 55 du misbah fr : Promouvoir l'adhésion aux médicaments",
+    "targetDate": "2026-09-02",
+    "completed": false,
+    "keywords": [
+      "pebc_ch71"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Chapitre 56 du misbah fr : Compétences en communication professionnelle en pharmacie",
+    "targetDate": "2026-09-03",
+    "completed": false,
+    "keywords": [
+      "pebc_ch72"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Chapitre 57 du misbah fr : Bioéthique et jugement professionnel",
+    "targetDate": "2026-09-04",
+    "completed": false,
+    "keywords": [
+      "pebc_ch73"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "Chapitre 58 du misbah fr : Ressources d'information sur les médicaments",
+    "targetDate": "2026-09-05",
+    "completed": false,
+    "keywords": [
+      "pebc_ch74"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Chapitre 59 du misbah fr : Erreurs de médication et pratiques de sécurité des patients",
+    "targetDate": "2026-09-06",
+    "completed": false,
+    "keywords": [
+      "pebc_ch75"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Chapitre 60 du misbah fr : Promotion de la santé et prévention des maladies",
+    "targetDate": "2026-09-07",
+    "completed": false,
+    "keywords": [
+      "pebc_ch76"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Chapitre 61 du misbah fr : Collaboration et travail d'équipe",
+    "targetDate": "2026-09-08",
+    "completed": false,
+    "keywords": [
+      "pebc_ch77"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Chapitre 62 du misbah fr : Préparations stériles",
+    "targetDate": "2026-09-09",
+    "completed": false,
+    "keywords": [
+      "pebc_ch78"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Chapitre 63 du misbah fr : Conditions de stockage des médicaments",
+    "targetDate": "2026-09-10",
+    "completed": false,
+    "keywords": [
+      "pebc_ch79"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Chapitre 64 du misbah fr : Soins aux patients et problèmes liés aux médicaments",
+    "targetDate": "2026-09-11",
+    "completed": false,
+    "keywords": [
+      "pebc_ch80"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Chapitre 65 du misbah fr : Effets indésirables des médicaments et prise en charge",
+    "targetDate": "2026-09-12",
+    "completed": false,
+    "keywords": [
+      "pebc_ch81"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Chapitre 66 du misbah fr : Interactions médicamenteuses",
+    "targetDate": "2026-09-13",
+    "completed": false,
+    "keywords": [
+      "pebc_ch82"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Chapitre 67 du misbah fr : Biochimie clinique et suivi thérapeutique pharmacologique",
+    "targetDate": "2026-09-14",
+    "completed": false,
+    "keywords": [
+      "pebc_ch83"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Chapitre 68 du misbah fr : Assurance qualité dans la pratique de la pharmacie",
+    "targetDate": "2026-09-15",
+    "completed": false,
+    "keywords": [
+      "pebc_ch84"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Chapitre 69 du misbah fr : Médicaments en vente libre et sur ordonnance pour les affections dermatologiques et du pied",
+    "targetDate": "2026-09-16",
+    "completed": false,
+    "keywords": [
+      "pebc_ch85"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Chapitre 71 du misbah fr : Médicaments en vente libre : Antihistaminiques, décongestionnants, antitussifs, expectorants",
+    "targetDate": "2026-09-17",
+    "completed": false,
+    "keywords": [
+      "pebc_ch86"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Chapitre 73 du misbah fr : Analgésiques et analgésiques topiques",
+    "targetDate": "2026-09-18",
+    "completed": false,
+    "keywords": [
+      "pebc_ch87"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Chapitre 75 du misbah fr : Sevrage tabagique",
+    "targetDate": "2026-09-19",
+    "completed": false,
+    "keywords": [
+      "pebc_ch88"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Chapitre 77 du misbah fr : Troubles de l'alimentation",
+    "targetDate": "2026-09-20",
+    "completed": false,
+    "keywords": [
+      "pebc_ch89"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Chapitre 100 du misbah fr : Pharmacognosie et produits naturels",
+    "targetDate": "2026-09-21",
+    "completed": false,
+    "keywords": [
+      "pebc_ch90"
+    ]
+  }
+]
