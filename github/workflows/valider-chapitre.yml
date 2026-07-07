@@ -1,0 +1,29 @@
+name: ✅ Valider le Chapitre du Jour
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mark-done:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    - name: Validation du chapitre
+      env:
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        ACTION_TYPE: validate
+      run: node tracker.js
+    - name: Sauvegarde dans la base de données et Dashboard
+      run: |
+        git config --global user.name "Zipi Bot"
+        git config --global user.email "zipi@bot.com"
+        git add courses.json README.md
+        git commit -m "Chapitre validé, progression mise à jour"
+        git push
