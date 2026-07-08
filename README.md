@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 14% [█░░░░░░░░░] 14% (13/90 chapitres)
-- **Compte à rebours :** ⏳ 100 jours restants
-- **Statut :** 🟢 À JOUR
+- **Compte à rebours :** ⏳ 99 jours restants
+- **Statut :** 🔴 EN RETARD de 1 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 | État | Date Cible | Chapitre |
@@ -23,8 +23,8 @@
 | ✅ | 2026-07-03 | Chapitre 25 de misbah pharmacologie : Hormones gonadiques (lire au meme temps avec le Chapitre 82 du misbah fr : Troubles gynécologiques et génito-urinaires) |
 | ✅ | 2026-07-04 | Chapitre 26 de misbah pharmacologie : Corticostéroïdes surrénaliens |
 | ✅ | 2026-07-05 | Chapitre 27 de misbah pharmacologie : Contraceptifs oraux (lire au meme temps avec le Chapitre 81 du misbah fr : Contraception) |
-| 🔥 | 2026-07-07 | Chapitre 1 de misbah pharmacologie : Fonctions du système nerveux autonome (lire au meme temps avec le Chapitre 3 du misbah fr : Système nerveux, Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome) |
-| 📅 | 2026-07-08 | Chapitre 2 de misbah pharmacologie : Médicaments adrénergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome) |
+| 🔴 | 2026-07-07 | Chapitre 1 de misbah pharmacologie : Fonctions du système nerveux autonome (lire au meme temps avec le Chapitre 3 du misbah fr : Système nerveux, Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome) |
+| 🔥 | 2026-07-08 | Chapitre 2 de misbah pharmacologie : Médicaments adrénergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome) |
 | 📅 | 2026-07-09 | Chapitre 3 de misbah pharmacologie : Médicaments cholinergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome) |
 | 📅 | 2026-07-10 | Chapitre 12 de misbah pharmacologie : Antidépresseurs et lithium (lire au meme temps avec le Chapitre 93 du misbah fr : Dépression, Chapitre 27 du misbah fr : Chimie médicinale et pharmacologie des médicaments psychiatriques et neurologiques) |
 | 📅 | 2026-07-11 | Chapitre 13 de misbah pharmacologie : Benzodiazépines et barbituriques (lire au meme temps avec le Chapitre 92 du misbah fr : Troubles de l'anxiété, Chapitre 76 du misbah fr : Insomnie) |
