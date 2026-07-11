@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 14% [█░░░░░░░░░] 14% (13/90 chapitres)
-- **Compte à rebours :** ⏳ 97 jours restants
-- **Statut :** 🔴 EN RETARD de 3 chapitre(s)
+- **Compte à rebours :** ⏳ 96 jours restants
+- **Statut :** 🔴 EN RETARD de 4 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 | État | Date Cible | Chapitre |
@@ -26,8 +26,8 @@
 | 🔴 | 2026-07-07 | Chapitre 1 de misbah pharmacologie : Fonctions du système nerveux autonome (lire au meme temps avec le Chapitre 3 du misbah fr : Système nerveux, Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome) |
 | 🔴 | 2026-07-08 | Chapitre 2 de misbah pharmacologie : Médicaments adrénergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome) |
 | 🔴 | 2026-07-09 | Chapitre 3 de misbah pharmacologie : Médicaments cholinergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome) |
-| 🔥 | 2026-07-10 | Chapitre 12 de misbah pharmacologie : Antidépresseurs et lithium (lire au meme temps avec le Chapitre 93 du misbah fr : Dépression, Chapitre 27 du misbah fr : Chimie médicinale et pharmacologie des médicaments psychiatriques et neurologiques) |
-| 📅 | 2026-07-11 | Chapitre 13 de misbah pharmacologie : Benzodiazépines et barbituriques (lire au meme temps avec le Chapitre 92 du misbah fr : Troubles de l'anxiété, Chapitre 76 du misbah fr : Insomnie) |
+| 🔴 | 2026-07-10 | Chapitre 12 de misbah pharmacologie : Antidépresseurs et lithium (lire au meme temps avec le Chapitre 93 du misbah fr : Dépression, Chapitre 27 du misbah fr : Chimie médicinale et pharmacologie des médicaments psychiatriques et neurologiques) |
+| 🔥 | 2026-07-11 | Chapitre 13 de misbah pharmacologie : Benzodiazépines et barbituriques (lire au meme temps avec le Chapitre 92 du misbah fr : Troubles de l'anxiété, Chapitre 76 du misbah fr : Insomnie) |
 | 📅 | 2026-07-12 | Chapitre 14 de misbah pharmacologie : Stimulants du SNC |
 | 📅 | 2026-07-13 | Chapitre 15 de misbah pharmacologie : Antipsychotiques (lire au meme temps avec le Chapitre 94 du misbah fr : Psychose et schizophrénie) |
 | 📅 | 2026-07-14 | Chapitre 16 de misbah pharmacologie : Médicaments antiépileptiques (lire au meme temps avec le Chapitre 96 du misbah fr : Crises convulsives et épilepsie) |
