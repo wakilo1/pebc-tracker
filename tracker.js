@@ -75,7 +75,7 @@ readme += `## 📊 Progression Globale\n`;
 readme += `- **Avancement :** ${progressPercent}% ${progressBar} (${completedChapters}/${totalChapters} chapitres)\n`;
 readme += `- **Compte à rebours :** ⏳ ${daysLeft} jours restants\n`;
 readme += `- **Statut :** ${statusMessage}\n\n`;
-readme += `## 📚 Vision d'Ensemble du Programme\n`;
+readme += `## 📚 Vision d'Ensemble du Programme\n\n`;
 readme += `| État | Date Cible | Chapitre |\n`;
 readme += `|:---:|:---:|:---|\n`;
 
