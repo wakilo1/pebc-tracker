@@ -1,0 +1,30 @@
+name: 🔄 Auto-Update Dashboard
+
+on:
+  push:
+    paths:
+      - 'courses.json'
+
+permissions:
+  contents: write
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+    - name: Mise à jour des données
+      env:
+        TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: node tracker.js
+    - name: Sauvegarde du nouveau Dashboard
+      run: |
+        git config --global user.name "Zipi Bot"
+        git config --global user.email "zipi@bot.com"
+        git add README.md
+        git commit -m "Auto-update du Dashboard suite à une modification manuelle" || echo "Rien à mettre à jour"
+        git push
