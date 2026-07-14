@@ -4,10 +4,11 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 19% [██░░░░░░░░] 19% (17/90 chapitres)
-- **Compte à rebours :** ⏳ 94 jours restants
-- **Statut :** 🔴 EN RETARD de 2 chapitre(s)
+- **Compte à rebours :** ⏳ 93 jours restants
+- **Statut :** 🔴 EN RETARD de 3 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
+
 | État | Date Cible | Chapitre |
 |:---:|:---:|:---|
 | ✅ | 2026-06-23 | Chapitre 4 de misbah pharmacologie : Médicaments antihypertenseurs (lire au meme temps avec le Chapitre 85 du misbah fr : Hypertension, Chapitre 26 du misbah fr : Chimie médicinale et pharmacologie des médicaments cardiovasculaires) |
@@ -29,8 +30,8 @@
 | ✅ | 2026-07-10 | Chapitre 12 de misbah pharmacologie : Antidépresseurs et lithium (lire au meme temps avec le Chapitre 93 du misbah fr : Dépression, Chapitre 27 du misbah fr : Chimie médicinale et pharmacologie des médicaments psychiatriques et neurologiques) |
 | 🔴 | 2026-07-11 | Chapitre 13 de misbah pharmacologie : Benzodiazépines et barbituriques (lire au meme temps avec le Chapitre 92 du misbah fr : Troubles de l'anxiété, Chapitre 76 du misbah fr : Insomnie) |
 | 🔴 | 2026-07-12 | Chapitre 14 de misbah pharmacologie : Stimulants du SNC |
-| 🔥 | 2026-07-13 | Chapitre 15 de misbah pharmacologie : Antipsychotiques (lire au meme temps avec le Chapitre 94 du misbah fr : Psychose et schizophrénie) |
-| 📅 | 2026-07-14 | Chapitre 16 de misbah pharmacologie : Médicaments antiépileptiques (lire au meme temps avec le Chapitre 96 du misbah fr : Crises convulsives et épilepsie) |
+| 🔴 | 2026-07-13 | Chapitre 15 de misbah pharmacologie : Antipsychotiques (lire au meme temps avec le Chapitre 94 du misbah fr : Psychose et schizophrénie) |
+| 🔥 | 2026-07-14 | Chapitre 16 de misbah pharmacologie : Médicaments antiépileptiques (lire au meme temps avec le Chapitre 96 du misbah fr : Crises convulsives et épilepsie) |
 | 📅 | 2026-07-15 | Chapitre 17 de misbah pharmacologie : Médicaments contre la maladie d'Alzheimer et la démence (lire au meme temps avec le Chapitre 95 du misbah fr : Démence) |
 | 📅 | 2026-07-16 | Chapitre 18 de misbah pharmacologie : Médicaments anti-parkinsoniens (lire au meme temps avec le Chapitre 97 du misbah fr : Maladie de Parkinson) |
 | 📅 | 2026-07-17 | Chapitre 19 de misbah pharmacologie : Anesthésiques locaux et généraux |
