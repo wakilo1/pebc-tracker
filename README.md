@@ -3,9 +3,9 @@
 > Objectif : Examen d'Évaluation du PEBC le 15 Octobre 2026 🎯
 
 ## 📊 Progression Globale
-- **Avancement :** 19% [██░░░░░░░░] 19% (17/90 chapitres)
+- **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
 - **Compte à rebours :** ⏳ 91 jours restants
-- **Statut :** 🔴 EN RETARD de 5 chapitre(s)
+- **Statut :** 🔴 EN RETARD de 2 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -28,9 +28,9 @@
 | ✅ | 2026-07-08 | Chapitre 2 de misbah pharmacologie : Médicaments adrénergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome) |
 | ✅ | 2026-07-09 | Chapitre 3 de misbah pharmacologie : Médicaments cholinergiques (lire au meme temps avec le Chapitre 24 du misbah fr : Chimie médicinale et pharmacologie des médicaments du système nerveux autonome) |
 | ✅ | 2026-07-10 | Chapitre 12 de misbah pharmacologie : Antidépresseurs et lithium (lire au meme temps avec le Chapitre 93 du misbah fr : Dépression, Chapitre 27 du misbah fr : Chimie médicinale et pharmacologie des médicaments psychiatriques et neurologiques) |
-| 🔴 | 2026-07-11 | Chapitre 13 de misbah pharmacologie : Benzodiazépines et barbituriques (lire au meme temps avec le Chapitre 92 du misbah fr : Troubles de l'anxiété, Chapitre 76 du misbah fr : Insomnie) |
-| 🔴 | 2026-07-12 | Chapitre 14 de misbah pharmacologie : Stimulants du SNC |
-| 🔴 | 2026-07-13 | Chapitre 15 de misbah pharmacologie : Antipsychotiques (lire au meme temps avec le Chapitre 94 du misbah fr : Psychose et schizophrénie) |
+| ✅ | 2026-07-11 | Chapitre 13 de misbah pharmacologie : Benzodiazépines et barbituriques (lire au meme temps avec le Chapitre 92 du misbah fr : Troubles de l'anxiété, Chapitre 76 du misbah fr : Insomnie) |
+| ✅ | 2026-07-12 | Chapitre 14 de misbah pharmacologie : Stimulants du SNC |
+| ✅ | 2026-07-13 | Chapitre 15 de misbah pharmacologie : Antipsychotiques (lire au meme temps avec le Chapitre 94 du misbah fr : Psychose et schizophrénie) |
 | 🔴 | 2026-07-14 | Chapitre 16 de misbah pharmacologie : Médicaments antiépileptiques (lire au meme temps avec le Chapitre 96 du misbah fr : Crises convulsives et épilepsie) |
 | 🔴 | 2026-07-15 | Chapitre 17 de misbah pharmacologie : Médicaments contre la maladie d'Alzheimer et la démence (lire au meme temps avec le Chapitre 95 du misbah fr : Démence) |
 | 🔥 | 2026-07-16 | Chapitre 18 de misbah pharmacologie : Médicaments anti-parkinsoniens (lire au meme temps avec le Chapitre 97 du misbah fr : Maladie de Parkinson) |
