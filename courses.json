@@ -156,7 +156,7 @@
     "id": 13,
     "name": "Chapitre 13 de misbah pharmacologie : Benzodiazépines et barbituriques (lire au meme temps avec le Chapitre 92 du misbah fr : Troubles de l'anxiété, Chapitre 76 du misbah fr : Insomnie)",
     "targetDate": "2026-07-11",
-    "completed": false,
+    "completed": true,
     "keywords": [
       "pebc_ch13"
     ]
@@ -165,7 +165,7 @@
     "id": 14,
     "name": "Chapitre 14 de misbah pharmacologie : Stimulants du SNC",
     "targetDate": "2026-07-12",
-    "completed": false,
+    "completed": true,
     "keywords": [
       "pebc_ch14"
     ]
@@ -174,7 +174,7 @@
     "id": 15,
     "name": "Chapitre 15 de misbah pharmacologie : Antipsychotiques (lire au meme temps avec le Chapitre 94 du misbah fr : Psychose et schizophrénie)",
     "targetDate": "2026-07-13",
-    "completed": false,
+    "completed": true,
     "keywords": [
       "pebc_ch15"
     ]
