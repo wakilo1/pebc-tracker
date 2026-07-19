@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 89 jours restants
-- **Statut :** 🔴 EN RETARD de 4 chapitre(s)
+- **Compte à rebours :** ⏳ 88 jours restants
+- **Statut :** 🔴 EN RETARD de 5 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -35,8 +35,8 @@
 | 🔴 | 2026-07-15 | Chapitre 17 de misbah pharmacologie : Médicaments contre la maladie d'Alzheimer et la démence (lire au meme temps avec le Chapitre 95 du misbah fr : Démence) |
 | 🔴 | 2026-07-16 | Chapitre 18 de misbah pharmacologie : Médicaments anti-parkinsoniens (lire au meme temps avec le Chapitre 97 du misbah fr : Maladie de Parkinson) |
 | 🔴 | 2026-07-17 | Chapitre 19 de misbah pharmacologie : Anesthésiques locaux et généraux |
-| 🔥 | 2026-07-18 | Chapitre 20 de misbah pharmacologie : Analgésiques opioïdes (lire au meme temps avec le Chapitre 91 du misbah fr : Gestion de la douleur) |
-| 📅 | 2026-07-19 | Chapitre 21 de misbah pharmacologie : AINS (lire au meme temps avec le Chapitre 25 du misbah fr : Chimie médicinale et pharmacologie des histamines, de la sérotonine, des prostaglandines et des AINS) |
+| 🔴 | 2026-07-18 | Chapitre 20 de misbah pharmacologie : Analgésiques opioïdes (lire au meme temps avec le Chapitre 91 du misbah fr : Gestion de la douleur) |
+| 🔥 | 2026-07-19 | Chapitre 21 de misbah pharmacologie : AINS (lire au meme temps avec le Chapitre 25 du misbah fr : Chimie médicinale et pharmacologie des histamines, de la sérotonine, des prostaglandines et des AINS) |
 | 📅 | 2026-07-20 | Chapitre 22 de misbah pharmacologie : Autacoïdes (Analogues et Antagonistes) |
 | 📅 | 2026-07-21 | Chapitre 28 de misbah pharmacologie : Arthrose (lire au meme temps avec le Chapitre 83 du misbah fr : Polyarthrite rhumatoïde, arthrose et arthrite goutteuse, Chapitre 30 du misbah fr : Chimie médicinale et pharmacologie des médicaments musculosquelettiques) |
 | 📅 | 2026-07-22 | Chapitre 29 de misbah pharmacologie : ARMM (lire au meme temps avec le Chapitre 83 du misbah fr : Polyarthrite rhumatoïde, arthrose et arthrite goutteuse) |
