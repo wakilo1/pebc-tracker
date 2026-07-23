@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 85 jours restants
-- **Statut :** 🔴 EN RETARD de 8 chapitre(s)
+- **Compte à rebours :** ⏳ 84 jours restants
+- **Statut :** 🔴 EN RETARD de 9 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -39,8 +39,8 @@
 | 🔴 | 2026-07-19 | Chapitre 21 de misbah pharmacologie : AINS (lire au meme temps avec le Chapitre 25 du misbah fr : Chimie médicinale et pharmacologie des histamines, de la sérotonine, des prostaglandines et des AINS) |
 | 🔴 | 2026-07-20 | Chapitre 22 de misbah pharmacologie : Autacoïdes (Analogues et Antagonistes) |
 | 🔴 | 2026-07-21 | Chapitre 28 de misbah pharmacologie : Arthrose (lire au meme temps avec le Chapitre 83 du misbah fr : Polyarthrite rhumatoïde, arthrose et arthrite goutteuse, Chapitre 30 du misbah fr : Chimie médicinale et pharmacologie des médicaments musculosquelettiques) |
-| 🔥 | 2026-07-22 | Chapitre 29 de misbah pharmacologie : ARMM (lire au meme temps avec le Chapitre 83 du misbah fr : Polyarthrite rhumatoïde, arthrose et arthrite goutteuse) |
-| 📅 | 2026-07-23 | Chapitre 30 de misbah pharmacologie : Arthrite goutteuse et hyperuricémie (lire au meme temps avec le Chapitre 83 du misbah fr : Polyarthrite rhumatoïde, arthrose et arthrite goutteuse) |
+| 🔴 | 2026-07-22 | Chapitre 29 de misbah pharmacologie : ARMM (lire au meme temps avec le Chapitre 83 du misbah fr : Polyarthrite rhumatoïde, arthrose et arthrite goutteuse) |
+| 🔥 | 2026-07-23 | Chapitre 30 de misbah pharmacologie : Arthrite goutteuse et hyperuricémie (lire au meme temps avec le Chapitre 83 du misbah fr : Polyarthrite rhumatoïde, arthrose et arthrite goutteuse) |
 | 📅 | 2026-07-24 | Chapitre 31 de misbah pharmacologie : Ostéoporose (lire au meme temps avec le Chapitre 84 du misbah fr : Ostéoporose) |
 | 📅 | 2026-07-25 | Chapitre 32 de misbah pharmacologie : Asthme et MPOC (lire au meme temps avec le Chapitre 74 du misbah fr : Asthme et MPOC, Chapitre 8 du misbah fr : Système respiratoire, Chapitre 29 du misbah fr : Chimie médicinale et pharmacologie des médicaments respiratoires) |
 | 📅 | 2026-07-26 | Chapitre 33 de misbah pharmacologie : Médicaments anticancéreux et chimiothérapie (lire au meme temps avec le Chapitre 99 du misbah fr : Médicaments anticancéreux et chimiothérapie) |
