@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 79 jours restants
-- **Statut :** 🔴 EN RETARD de 14 chapitre(s)
+- **Compte à rebours :** ⏳ 78 jours restants
+- **Statut :** 🔴 EN RETARD de 15 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -45,8 +45,8 @@
 | 🔴 | 2026-07-25 | Chapitre 32 de misbah pharmacologie : Asthme et MPOC (lire au meme temps avec le Chapitre 74 du misbah fr : Asthme et MPOC, Chapitre 8 du misbah fr : Système respiratoire, Chapitre 29 du misbah fr : Chimie médicinale et pharmacologie des médicaments respiratoires) |
 | 🔴 | 2026-07-26 | Chapitre 33 de misbah pharmacologie : Médicaments anticancéreux et chimiothérapie (lire au meme temps avec le Chapitre 99 du misbah fr : Médicaments anticancéreux et chimiothérapie) |
 | 🔴 | 2026-07-27 | Chapitre 34 de misbah pharmacologie : Médicaments gastro-intestinaux (lire au meme temps avec le Chapitre 78 du misbah fr : RGO, ulcères, MII et SCI, Chapitre 2 du misbah fr : Système gastro-intestinal, Chapitre 72 du misbah fr : Médicaments en vente libre) |
-| 🔥 | 2026-07-28 | Chapitre 35 de misbah pharmacologie : Médicaments dans l'insuffisance rénale (lire au meme temps avec le Chapitre 6 du misbah fr : Système rénal, Chapitre 9 du misbah fr : Système urinaire) |
-| 📅 | 2026-07-29 | Chapitre 36 de misbah pharmacologie : Immunomodulateurs (lire au meme temps avec le Chapitre 16 du misbah fr : Immunologie, Chapitre 17 du misbah fr : Immunisations) |
+| 🔴 | 2026-07-28 | Chapitre 35 de misbah pharmacologie : Médicaments dans l'insuffisance rénale (lire au meme temps avec le Chapitre 6 du misbah fr : Système rénal, Chapitre 9 du misbah fr : Système urinaire) |
+| 🔥 | 2026-07-29 | Chapitre 36 de misbah pharmacologie : Immunomodulateurs (lire au meme temps avec le Chapitre 16 du misbah fr : Immunologie, Chapitre 17 du misbah fr : Immunisations) |
 | 📅 | 2026-07-30 | Chapitre 37 de misbah pharmacologie : Médicaments ophtalmiques (lire au meme temps avec le Chapitre 70 du misbah fr : Médicaments ophtalmiques, Chapitre 10 du misbah fr : L'œil et l'oreille) |
 | 📅 | 2026-07-31 | Chapitre 38 de misbah pharmacologie : Antibactériens (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens, Chapitre 14 du misbah fr : Microbiologie, Chapitre 31 du misbah fr : Chimie médicinale et pharmacologie des médicaments antimicrobiens) |
 | 📅 | 2026-08-01 | Chapitre 39 de misbah pharmacologie : Antifongiques (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens) |
