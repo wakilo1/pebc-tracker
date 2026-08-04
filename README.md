@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 73 jours restants
-- **Statut :** 🔴 EN RETARD de 20 chapitre(s)
+- **Compte à rebours :** ⏳ 72 jours restants
+- **Statut :** 🔴 EN RETARD de 21 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -51,8 +51,8 @@
 | 🔴 | 2026-07-31 | Chapitre 38 de misbah pharmacologie : Antibactériens (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens, Chapitre 14 du misbah fr : Microbiologie, Chapitre 31 du misbah fr : Chimie médicinale et pharmacologie des médicaments antimicrobiens) |
 | 🔴 | 2026-08-01 | Chapitre 39 de misbah pharmacologie : Antifongiques (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens) |
 | 🔴 | 2026-08-02 | Chapitre 40 de misbah pharmacologie : Médicaments antimycobactériens (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens) |
-| 🔥 | 2026-08-03 | Chapitre 41 de misbah pharmacologie : Médicaments antiviraux (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens) |
-| 📅 | 2026-08-04 | Chapitre 42 de misbah pharmacologie : Médicaments antipaludiques (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens) |
+| 🔴 | 2026-08-03 | Chapitre 41 de misbah pharmacologie : Médicaments antiviraux (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens) |
+| 🔥 | 2026-08-04 | Chapitre 42 de misbah pharmacologie : Médicaments antipaludiques (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens) |
 | 📅 | 2026-08-05 | Chapitre 43 de misbah pharmacologie : Médicaments anthelminthiques (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens) |
 | 📅 | 2026-08-06 | Chapitre 20 du misbah fr : Pharmacocinétique |
 | 📅 | 2026-08-07 | Chapitre 21 du misbah fr : Vitesses et ordres de cinétique |
