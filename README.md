@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 68 jours restants
-- **Statut :** 🔴 EN RETARD de 25 chapitre(s)
+- **Compte à rebours :** ⏳ 67 jours restants
+- **Statut :** 🔴 EN RETARD de 26 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -56,8 +56,8 @@
 | 🔴 | 2026-08-05 | Chapitre 43 de misbah pharmacologie : Médicaments anthelminthiques (lire au meme temps avec le Chapitre 98 du misbah fr : Agents antimicrobiens) |
 | 🔴 | 2026-08-06 | Chapitre 20 du misbah fr : Pharmacocinétique |
 | 🔴 | 2026-08-07 | Chapitre 21 du misbah fr : Vitesses et ordres de cinétique |
-| 🔥 | 2026-08-08 | Chapitre 22 du misbah fr : Pharmacodynamique |
-| 📅 | 2026-08-09 | Chapitre 23 du misbah fr : Bases de la chimie médicinale |
+| 🔴 | 2026-08-08 | Chapitre 22 du misbah fr : Pharmacodynamique |
+| 🔥 | 2026-08-09 | Chapitre 23 du misbah fr : Bases de la chimie médicinale |
 | 📅 | 2026-08-10 | Chapitre 32 du misbah fr : Métabolisme des médicaments |
 | 📅 | 2026-08-11 | Chapitre 33 du misbah fr : Biopharmacie |
 | 📅 | 2026-08-12 | Chapitre 34 du misbah fr : Pharmacie physique |
