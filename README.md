@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 66 jours restants
-- **Statut :** 🔴 EN RETARD de 27 chapitre(s)
+- **Compte à rebours :** ⏳ 65 jours restants
+- **Statut :** 🔴 EN RETARD de 28 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -58,8 +58,8 @@
 | 🔴 | 2026-08-07 | Chapitre 21 du misbah fr : Vitesses et ordres de cinétique |
 | 🔴 | 2026-08-08 | Chapitre 22 du misbah fr : Pharmacodynamique |
 | 🔴 | 2026-08-09 | Chapitre 23 du misbah fr : Bases de la chimie médicinale |
-| 🔥 | 2026-08-10 | Chapitre 32 du misbah fr : Métabolisme des médicaments |
-| 📅 | 2026-08-11 | Chapitre 33 du misbah fr : Biopharmacie |
+| 🔴 | 2026-08-10 | Chapitre 32 du misbah fr : Métabolisme des médicaments |
+| 🔥 | 2026-08-11 | Chapitre 33 du misbah fr : Biopharmacie |
 | 📅 | 2026-08-12 | Chapitre 34 du misbah fr : Pharmacie physique |
 | 📅 | 2026-08-13 | Chapitre 35 du misbah fr : Excipients pharmaceutiques |
 | 📅 | 2026-08-14 | Chapitre 36 du misbah fr : Préparations magistrales et reconstitutions |
