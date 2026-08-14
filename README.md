@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 63 jours restants
-- **Statut :** 🔴 EN RETARD de 30 chapitre(s)
+- **Compte à rebours :** ⏳ 62 jours restants
+- **Statut :** 🔴 EN RETARD de 31 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -61,8 +61,8 @@
 | 🔴 | 2026-08-10 | Chapitre 32 du misbah fr : Métabolisme des médicaments |
 | 🔴 | 2026-08-11 | Chapitre 33 du misbah fr : Biopharmacie |
 | 🔴 | 2026-08-12 | Chapitre 34 du misbah fr : Pharmacie physique |
-| 🔥 | 2026-08-13 | Chapitre 35 du misbah fr : Excipients pharmaceutiques |
-| 📅 | 2026-08-14 | Chapitre 36 du misbah fr : Préparations magistrales et reconstitutions |
+| 🔴 | 2026-08-13 | Chapitre 35 du misbah fr : Excipients pharmaceutiques |
+| 🔥 | 2026-08-14 | Chapitre 36 du misbah fr : Préparations magistrales et reconstitutions |
 | 📅 | 2026-08-15 | Chapitre 37 du misbah fr : Formes posologiques pharmaceutiques |
 | 📅 | 2026-08-16 | Chapitre 38 du misbah fr : Systèmes d'administration de médicaments |
 | 📅 | 2026-08-17 | Chapitre 39 du misbah fr : Analyse pharmaceutique |
