@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 58 jours restants
-- **Statut :** 🔴 EN RETARD de 35 chapitre(s)
+- **Compte à rebours :** ⏳ 57 jours restants
+- **Statut :** 🔴 EN RETARD de 36 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -66,8 +66,8 @@
 | 🔴 | 2026-08-15 | Chapitre 37 du misbah fr : Formes posologiques pharmaceutiques |
 | 🔴 | 2026-08-16 | Chapitre 38 du misbah fr : Systèmes d'administration de médicaments |
 | 🔴 | 2026-08-17 | Chapitre 39 du misbah fr : Analyse pharmaceutique |
-| 🔥 | 2026-08-18 | Chapitre 40 du misbah fr : Le système de soins de santé canadien |
-| 📅 | 2026-08-19 | Chapitre 41 du misbah fr : Loi et jurisprudence pharmaceutiques canadiennes |
+| 🔴 | 2026-08-18 | Chapitre 40 du misbah fr : Le système de soins de santé canadien |
+| 🔥 | 2026-08-19 | Chapitre 41 du misbah fr : Loi et jurisprudence pharmaceutiques canadiennes |
 | 📅 | 2026-08-20 | Chapitre 42 du misbah fr : Champ d'exercice du pharmacien au Canada |
 | 📅 | 2026-08-21 | Chapitre 43 du misbah fr : Gestion de la pharmacie |
 | 📅 | 2026-08-22 | Chapitre 44 du misbah fr : Pharmacoéconomie |
