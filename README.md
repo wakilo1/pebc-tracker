@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 54 jours restants
-- **Statut :** 🔴 EN RETARD de 39 chapitre(s)
+- **Compte à rebours :** ⏳ 53 jours restants
+- **Statut :** 🔴 EN RETARD de 40 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -70,8 +70,8 @@
 | 🔴 | 2026-08-19 | Chapitre 41 du misbah fr : Loi et jurisprudence pharmaceutiques canadiennes |
 | 🔴 | 2026-08-20 | Chapitre 42 du misbah fr : Champ d'exercice du pharmacien au Canada |
 | 🔴 | 2026-08-21 | Chapitre 43 du misbah fr : Gestion de la pharmacie |
-| 🔥 | 2026-08-22 | Chapitre 44 du misbah fr : Pharmacoéconomie |
-| 📅 | 2026-08-23 | Chapitre 45 du misbah fr : Le processus d'approbation des nouveaux médicaments |
+| 🔴 | 2026-08-22 | Chapitre 44 du misbah fr : Pharmacoéconomie |
+| 🔥 | 2026-08-23 | Chapitre 45 du misbah fr : Le processus d'approbation des nouveaux médicaments |
 | 📅 | 2026-08-24 | Chapitre 46 du misbah fr : Pharmacoépidémiologie |
 | 📅 | 2026-08-25 | Chapitre 47 du misbah fr : Biostatistiques |
 | 📅 | 2026-08-26 | Chapitre 48 du misbah fr : Pharmacie d'hôpital |
