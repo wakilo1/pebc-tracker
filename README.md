@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 51 jours restants
-- **Statut :** 🔴 EN RETARD de 42 chapitre(s)
+- **Compte à rebours :** ⏳ 50 jours restants
+- **Statut :** 🔴 EN RETARD de 43 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -73,8 +73,8 @@
 | 🔴 | 2026-08-22 | Chapitre 44 du misbah fr : Pharmacoéconomie |
 | 🔴 | 2026-08-23 | Chapitre 45 du misbah fr : Le processus d'approbation des nouveaux médicaments |
 | 🔴 | 2026-08-24 | Chapitre 46 du misbah fr : Pharmacoépidémiologie |
-| 🔥 | 2026-08-25 | Chapitre 47 du misbah fr : Biostatistiques |
-| 📅 | 2026-08-26 | Chapitre 48 du misbah fr : Pharmacie d'hôpital |
+| 🔴 | 2026-08-25 | Chapitre 47 du misbah fr : Biostatistiques |
+| 🔥 | 2026-08-26 | Chapitre 48 du misbah fr : Pharmacie d'hôpital |
 | 📅 | 2026-08-27 | Chapitre 49 du misbah fr : Ordonnances de médicaments |
 | 📅 | 2026-08-28 | Chapitre 50 du misbah fr : Calculs pharmaceutiques : Les bases |
 | 📅 | 2026-08-29 | Chapitre 51 du misbah fr : Concentrations et dilutions |
