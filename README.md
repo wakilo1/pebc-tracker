@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 47 jours restants
-- **Statut :** 🔴 EN RETARD de 46 chapitre(s)
+- **Compte à rebours :** ⏳ 46 jours restants
+- **Statut :** 🔴 EN RETARD de 47 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -77,8 +77,8 @@
 | 🔴 | 2026-08-26 | Chapitre 48 du misbah fr : Pharmacie d'hôpital |
 | 🔴 | 2026-08-27 | Chapitre 49 du misbah fr : Ordonnances de médicaments |
 | 🔴 | 2026-08-28 | Chapitre 50 du misbah fr : Calculs pharmaceutiques : Les bases |
-| 🔥 | 2026-08-29 | Chapitre 51 du misbah fr : Concentrations et dilutions |
-| 📅 | 2026-08-30 | Chapitre 52 du misbah fr : Calculs de posologie |
+| 🔴 | 2026-08-29 | Chapitre 51 du misbah fr : Concentrations et dilutions |
+| 🔥 | 2026-08-30 | Chapitre 52 du misbah fr : Calculs de posologie |
 | 📅 | 2026-08-31 | Chapitre 53 du misbah fr : Solutions d'électrolytes |
 | 📅 | 2026-09-01 | Chapitre 54 du misbah fr : Sécurité des médicaments dans les populations particulières |
 | 📅 | 2026-09-02 | Chapitre 55 du misbah fr : Promouvoir l'adhésion aux médicaments |
