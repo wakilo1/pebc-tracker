@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 40 jours restants
-- **Statut :** 🔴 EN RETARD de 53 chapitre(s)
+- **Compte à rebours :** ⏳ 39 jours restants
+- **Statut :** 🔴 EN RETARD de 54 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -84,8 +84,8 @@
 | 🔴 | 2026-09-02 | Chapitre 55 du misbah fr : Promouvoir l'adhésion aux médicaments |
 | 🔴 | 2026-09-03 | Chapitre 56 du misbah fr : Compétences en communication professionnelle en pharmacie |
 | 🔴 | 2026-09-04 | Chapitre 57 du misbah fr : Bioéthique et jugement professionnel |
-| 🔥 | 2026-09-05 | Chapitre 58 du misbah fr : Ressources d'information sur les médicaments |
-| 📅 | 2026-09-06 | Chapitre 59 du misbah fr : Erreurs de médication et pratiques de sécurité des patients |
+| 🔴 | 2026-09-05 | Chapitre 58 du misbah fr : Ressources d'information sur les médicaments |
+| 🔥 | 2026-09-06 | Chapitre 59 du misbah fr : Erreurs de médication et pratiques de sécurité des patients |
 | 📅 | 2026-09-07 | Chapitre 60 du misbah fr : Promotion de la santé et prévention des maladies |
 | 📅 | 2026-09-08 | Chapitre 61 du misbah fr : Collaboration et travail d'équipe |
 | 📅 | 2026-09-09 | Chapitre 62 du misbah fr : Préparations stériles |
