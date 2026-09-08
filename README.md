@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 38 jours restants
-- **Statut :** 🔴 EN RETARD de 55 chapitre(s)
+- **Compte à rebours :** ⏳ 37 jours restants
+- **Statut :** 🔴 EN RETARD de 56 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -86,8 +86,8 @@
 | 🔴 | 2026-09-04 | Chapitre 57 du misbah fr : Bioéthique et jugement professionnel |
 | 🔴 | 2026-09-05 | Chapitre 58 du misbah fr : Ressources d'information sur les médicaments |
 | 🔴 | 2026-09-06 | Chapitre 59 du misbah fr : Erreurs de médication et pratiques de sécurité des patients |
-| 🔥 | 2026-09-07 | Chapitre 60 du misbah fr : Promotion de la santé et prévention des maladies |
-| 📅 | 2026-09-08 | Chapitre 61 du misbah fr : Collaboration et travail d'équipe |
+| 🔴 | 2026-09-07 | Chapitre 60 du misbah fr : Promotion de la santé et prévention des maladies |
+| 🔥 | 2026-09-08 | Chapitre 61 du misbah fr : Collaboration et travail d'équipe |
 | 📅 | 2026-09-09 | Chapitre 62 du misbah fr : Préparations stériles |
 | 📅 | 2026-09-10 | Chapitre 63 du misbah fr : Conditions de stockage des médicaments |
 | 📅 | 2026-09-11 | Chapitre 64 du misbah fr : Soins aux patients et problèmes liés aux médicaments |
