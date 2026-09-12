@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 34 jours restants
-- **Statut :** 🔴 EN RETARD de 59 chapitre(s)
+- **Compte à rebours :** ⏳ 33 jours restants
+- **Statut :** 🔴 EN RETARD de 60 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -90,8 +90,8 @@
 | 🔴 | 2026-09-08 | Chapitre 61 du misbah fr : Collaboration et travail d'équipe |
 | 🔴 | 2026-09-09 | Chapitre 62 du misbah fr : Préparations stériles |
 | 🔴 | 2026-09-10 | Chapitre 63 du misbah fr : Conditions de stockage des médicaments |
-| 🔥 | 2026-09-11 | Chapitre 64 du misbah fr : Soins aux patients et problèmes liés aux médicaments |
-| 📅 | 2026-09-12 | Chapitre 65 du misbah fr : Effets indésirables des médicaments et prise en charge |
+| 🔴 | 2026-09-11 | Chapitre 64 du misbah fr : Soins aux patients et problèmes liés aux médicaments |
+| 🔥 | 2026-09-12 | Chapitre 65 du misbah fr : Effets indésirables des médicaments et prise en charge |
 | 📅 | 2026-09-13 | Chapitre 66 du misbah fr : Interactions médicamenteuses |
 | 📅 | 2026-09-14 | Chapitre 67 du misbah fr : Biochimie clinique et suivi thérapeutique pharmacologique |
 | 📅 | 2026-09-15 | Chapitre 68 du misbah fr : Assurance qualité dans la pratique de la pharmacie |
