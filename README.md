@@ -4,8 +4,8 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 27 jours restants
-- **Statut :** 🔴 EN RETARD de 66 chapitre(s)
+- **Compte à rebours :** ⏳ 26 jours restants
+- **Statut :** 🔴 EN RETARD de 67 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
 
@@ -97,7 +97,7 @@
 | 🔴 | 2026-09-15 | Chapitre 68 du misbah fr : Assurance qualité dans la pratique de la pharmacie |
 | 🔴 | 2026-09-16 | Chapitre 69 du misbah fr : Médicaments en vente libre et sur ordonnance pour les affections dermatologiques et du pied |
 | 🔴 | 2026-09-17 | Chapitre 71 du misbah fr : Médicaments en vente libre : Antihistaminiques, décongestionnants, antitussifs, expectorants |
-| 🔥 | 2026-09-18 | Chapitre 73 du misbah fr : Analgésiques et analgésiques topiques |
-| 📅 | 2026-09-19 | Chapitre 75 du misbah fr : Sevrage tabagique |
+| 🔴 | 2026-09-18 | Chapitre 73 du misbah fr : Analgésiques et analgésiques topiques |
+| 🔥 | 2026-09-19 | Chapitre 75 du misbah fr : Sevrage tabagique |
 | 📅 | 2026-09-20 | Chapitre 77 du misbah fr : Troubles de l'alimentation |
 | 📅 | 2026-09-21 | Chapitre 100 du misbah fr : Pharmacognosie et produits naturels |
