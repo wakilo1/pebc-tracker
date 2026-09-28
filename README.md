@@ -4,7 +4,7 @@
 
 ## 📊 Progression Globale
 - **Avancement :** 22% [██░░░░░░░░] 22% (20/90 chapitres)
-- **Compte à rebours :** ⏳ 18 jours restants
+- **Compte à rebours :** ⏳ 17 jours restants
 - **Statut :** 🔴 EN RETARD de 70 chapitre(s)
 
 ## 📚 Vision d'Ensemble du Programme
